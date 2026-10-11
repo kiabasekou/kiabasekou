@@ -12,7 +12,7 @@ Mon terrain est celui des services publics : les données y concernent des perso
 - **Marchés publics informatiques** : termes de référence, spécifications techniques et estimations budgétaires selon les procédures de la Banque mondiale
 - **Coordination institutionnelle** : dialogue technique avec l'ANINF, la CNAMGS, la CNSS et la CPPF ; animation d'ateliers techniques nationaux
 - **Direction et enseignement** : directeur d'une école d'ingénierie industrielle (30 personnes, 2021–2022) ; enseignant en mathématiques, statistiques, programmation et réseaux (2015–2023)
-- **Formation** : Master MIAGE (Université Kofi Annan de Guinée) ; Licence en informatique (Université du Sahel, Dakar)
+
 
 ### Domaines
 
